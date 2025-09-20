@@ -66,7 +66,7 @@ const Header = props => {
           <ul className="nav-menu">
             <li className="nav-menu-item">
               <Link to="/" className="nav-link">
-                Home
+                VEERAA
               </Link>
             </li>
 
